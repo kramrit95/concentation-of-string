@@ -1,0 +1,1 @@
+# concentation-of-string
